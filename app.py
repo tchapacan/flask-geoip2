@@ -25,7 +25,7 @@ JSON_MAPPING = {
         'region_name': 'subdivisions.most_specific.name'
     }
 
-# I have no idea what these are
+# I have no idea what these are fiou
 METRO_CODE = 0
 CODE = 200
 
